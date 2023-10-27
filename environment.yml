@@ -1,0 +1,11 @@
+name: bayesian_stardew_env
+dependencies:
+- python
+- numpy
+- pandas
+- jupyter
+- matplotlib
+- pytest
+- pip
+- pip:
+  - jupyter_contrib_nbextensions
