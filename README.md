@@ -2,7 +2,7 @@
 
 This is the notebook accompanying an [article](https://www.cmshymansky.com/StardewSpringProfits/)
 I wrote where I decide the best crops to plant in Spring of my 2nd year in Stardew Valley using
-Bayesian inference and data collected from the first year.
+Bayesian inference and data collected from the 1st year.
 
 # Installation
 
